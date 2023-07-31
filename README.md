@@ -12,3 +12,8 @@
 3. Image compression using SVD and Low Rank Approximation.ipynb
    -
    - Compress an image using SVD and low rank approximation
+
+4. Reducing Dimensionality using Principal Component Analysis.ipynb
+   -
+   -Dimensionality reduction on Iris dataset using Princpal Component Ananlysis
+   -Using np.linalg, sns.scatterplot, sklearn decomposition and datasets
