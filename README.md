@@ -6,8 +6,8 @@
 
 2. CrudeOil_refinery_recco_model.ipynb
    -
-- Advise a petroleum company on how to meet the demands for motor oil, diesel oil and gasoline
-- Using Python modules - numpy.linalg and sympy
+   - Advise a petroleum company on how to meet the demands for motor oil, diesel oil and gasoline
+   - Using Python modules - numpy.linalg and sympy
 
 3. Image compression using SVD and Low Rank Approximation.ipynb
    -
@@ -15,10 +15,15 @@
 
 4. Reducing Dimensionality using Principal Component Analysis.ipynb
    -
- -Dimensionality reduction on Iris dataset using Princpal Component Ananlysis
- -Using np.linalg, sns.scatterplot, sklearn decomposition and datasets
+   - Dimensionality reduction on Iris dataset using Princpal Component Ananlysis
+   - Using np.linalg, sns.scatterplot, sklearn decomposition and datasets
 
 5. Customer_Segmentation_[Unsupervised Learning].ipynb
    -
-   -Customer segmentation based on Frequency of purchase, Recency and Total spend (Monetary)
-   -Using kmeans and DBSCAN clustering unsupervised learning methods
+   - Customer segmentation based on Frequency of purchase, Recency and Total spend (Monetary)
+   - Using kmeans and DBSCAN clustering unsupervised learning methods
+
+6. Predict Bike Sharing Users.ipynb
+   -
+   - Predict the bike-sharing counts per hour based on the features including weather, day, time, humidity, wind speed, season
+   - This is primarily a application of Linear Regression - using Normal equation and Stochastic Gradient Descent
