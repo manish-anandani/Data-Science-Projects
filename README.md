@@ -27,3 +27,8 @@
    -
    - Predict the bike-sharing counts per hour based on the features including weather, day, time, humidity, wind speed, season
    - This is primarily a application of Linear Regression - using Normal equation and Stochastic Gradient Descent
+
+7. Credit_risk_modelling_using_Logistic_Regression.ipynb
+   -
+   - Predict the loan defaulters using a Logistic Regression model on the credit risk data and calculate credit scores
+   - This is primarily an application of Linear Regression - using WoE (Weight of Evidence)
