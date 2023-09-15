@@ -37,3 +37,8 @@
    -
    - Build a model to recognize emotion from speech using Ensemble learning
    - This is primarily an application of librosa lib and ensemple methods - VotingClassifier on top of - KNN, SVM, LogisticRegression(Softmax), RandomForest 
+
+9. Employee_Attrition_Prediction_using_Boosting.ipynb
+   -
+   - Build a model to predict employee attrition on a dataset that is synthetically created by IBM data scientists
+   - This is primarily an application of XGBoost, CatBoost, LGBM, models (with hyper parameter tuning using Optuna or HyperOpt) and ensemple methods - StackingClassifier on top of - XGBoost, CatBoost and LGBM
