@@ -32,3 +32,8 @@
    -
    - Predict the loan defaulters using a Logistic Regression model on the credit risk data and calculate credit scores
    - This is primarily an application of Linear Regression - using WoE (Weight of Evidence)
+
+8. Emotion_Classification_from_Speech_using_Ensemble_Methods.ipynb
+   -
+   - Build a model to recognize emotion from speech using Ensemble learning
+   - This is primarily an application of librosa lib and ensemple methods - VotingClassifier on top of - KNN, SVM, LogisticRegression(Softmax), RandomForest 
