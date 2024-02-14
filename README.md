@@ -99,4 +99,4 @@
 4 Sentiment_Classification_using_nltk_pyspark_streamlitv1.0.ipynb
    -
    - Build a model to perform sentiment classification by analyzing the tweets data for major US airlines with Pyspark
-   - This is primarily an application of spark, pyspark.ml, vector assembler, nltk, NaiveBayes and streamlit or UI 
+   - This is primarily an application of spark, pyspark.ml, vector assembler, nltk, NaiveBayes and streamlit for UI 
