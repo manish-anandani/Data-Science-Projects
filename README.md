@@ -76,3 +76,13 @@
    - Build a model to Train a CNN-LSTM based deep neural net to recognize the action being performed in a video 
    - This is primarily an application of pandas, numpy, sklearn, tensorflow, keras - primarily LSTM, TimeDistributed, VGG16, Flatten, MaxPooling2D, Batch Normalization, Dropout and Dense layers  
 
+</br>
+</br>
+
+## Big Data Analytics
+
+1 Movielens_using_Cassandrav1.0.ipynb
+   -
+   - Build a model to explore the Movielens dataset and build a movie recommendation engine
+   - This is primarily an application of pandas, cassandra 
+
