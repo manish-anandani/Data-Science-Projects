@@ -1,6 +1,7 @@
    # Data Science Projects
 ## Machine Learning Building Blocks
 </br>
+
 1 Resume_Classification_Using_Naive_Bayes.ipynb
    -
    - Perform data preprocessing, EDA and feature extraction on the Resume dataset
