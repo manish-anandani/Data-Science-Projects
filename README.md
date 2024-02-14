@@ -86,3 +86,7 @@
    - Build a model to explore the Movielens dataset and build a movie recommendation engine
    - This is primarily an application of pandas, cassandra 
 
+2 LinearRegression_using_Pysparkmlv1.0.ipynb
+   -
+   - Build a model to perform simple analytics with Pyspark on the real estate valuation dataset and predict the house price per unit area
+   - This is primarily an application of spark, pyspark.ml, vector assembler, LinearRegression
