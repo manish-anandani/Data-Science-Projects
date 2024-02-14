@@ -67,6 +67,6 @@
 
 3 Video_Classification_using_CNN_LSTMv1_0.ipynb
    -
-   - Build a model to classify images - 3 classes with_mask, without_mask and partial_mask 
-   - This is primarily an application of pandas, numpy, sklearn, tensorflow, keras - primarily Conv2D, VGG16, Resnet50, Flatten, MaxPooling2D, Batch Normalization, Dropout and Dense layers  
+   - Build a model to Train a CNN-LSTM based deep neural net to recognize the action being performed in a video 
+   - This is primarily an application of pandas, numpy, sklearn, tensorflow, keras - primarily LSTM, TimeDistributed, VGG16, Flatten, MaxPooling2D, Batch Normalization, Dropout and Dense layers  
 
