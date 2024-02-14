@@ -1,4 +1,6 @@
 # Data Science Projects
+## Machine Learning
+
 1 Resume_Classification_Using_Naive_Bayes.ipynb
    -
    - Perform data preprocessing, EDA and feature extraction on the Resume dataset
@@ -43,12 +45,10 @@
    - Build a model to predict employee attrition on a dataset that is synthetically created by IBM data scientists
    - This is primarily an application of XGBoost, CatBoost, LGBM, models (with hyper parameter tuning using Optuna or HyperOpt) and ensemple methods - StackingClassifier on top of - XGBoost, CatBoost and LGBM
 
+## Deep Learning
+
 10 Employee_Attrition_Prediction_using_Boosting.ipynb
    -
-   - Build a model to predict employee attrition on a dataset that is synthetically created by IBM data scientists
-   - This is primarily an application of XGBoost, CatBoost, LGBM, models (with hyper parameter tuning using Optuna or HyperOpt) and ensemple methods - StackingClassifier on top of - XGBoost, CatBoost and LGBM
-
-10. Employee_Attrition_Prediction_using_Boosting.ipynb
    - Build a model to predict employee attrition on a dataset that is synthetically created by IBM data scientists
    - This is primarily an application of XGBoost, CatBoost, LGBM, models (with hyper parameter tuning using Optuna or HyperOpt) and ensemple methods - StackingClassifier on top of - XGBoost, CatBoost and LGBM
 
