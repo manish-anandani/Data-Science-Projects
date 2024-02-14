@@ -20,6 +20,8 @@
    - Dimensionality reduction on Iris dataset using Princpal Component Ananlysis
    - Using np.linalg, sns.scatterplot, sklearn decomposition and datasets
 
+
+
 ## Classical Machine Learning 
 
 1 Predict Bike Sharing Users.ipynb
@@ -46,6 +48,8 @@
    -
    - Customer segmentation based on Frequency of purchase, Recency and Total spend (Monetary)
    - Using kmeans and DBSCAN clustering unsupervised learning methods
+
+
 
 ## Deep Learning
 
