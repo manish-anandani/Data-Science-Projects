@@ -1,6 +1,6 @@
    # Data Science Projects
 ## Machine Learning Building Blocks
-
+</br>
 1 Resume_Classification_Using_Naive_Bayes.ipynb
    -
    - Perform data preprocessing, EDA and feature extraction on the Resume dataset
@@ -20,6 +20,7 @@
    - Dimensionality reduction on Iris dataset using Princpal Component Ananlysis
    - Using np.linalg, sns.scatterplot, sklearn decomposition and datasets
 
+</br>
 </br>
 
 ## Classical Machine Learning 
@@ -49,6 +50,7 @@
    - Customer segmentation based on Frequency of purchase, Recency and Total spend (Monetary)
    - Using kmeans and DBSCAN clustering unsupervised learning methods
 
+</br>
 </br>
 
 ## Deep Learning
