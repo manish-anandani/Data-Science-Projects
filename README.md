@@ -12,11 +12,11 @@
    - Advise a petroleum company on how to meet the demands for motor oil, diesel oil and gasoline
    - Using Python modules - numpy.linalg and sympy
 
-3 [Image compression using SVD and Low Rank Approximation.ipynb](Image compression using SVD and Low Rank Approximation.ipynb)
+3 [Image_compression_using_SVD_and_Low_Rank_Approximation.ipynb](Image_compression_using_SVD_and_Low_Rank_Approximation.ipynb)
    -
    - Compress an image using SVD and low rank approximation
 
-4 [Reducing Dimensionality using Principal Component Analysis.ipynb](Reducing Dimensionality using Principal Component Analysis.ipynb)
+4 [Reducing_Dimensionality_using_Principal_Component_Analysis.ipynb](Reducing_Dimensionality_using_Principal_Component_Analysis.ipynb)
    -
    - Dimensionality reduction on Iris dataset using Princpal Component Ananlysis
    - Using np.linalg, sns.scatterplot, sklearn decomposition and datasets
