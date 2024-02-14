@@ -58,7 +58,7 @@
    - Build a model to classify images - 42 classes - different types of traffic signs liek speed limits, parking zones etc
    - This is primarily an application of pandas, numpy, sklearn, tensorflow, keras - primarily multilayered perceptrons - with hyper-parameter tuning using GridSearchCV
 
-2 Image_Classification_MLP_Traffic_Sign_Recognition.ipynb
+2 Face_Mask_Detection_using_Convolutional_Neural_Network_v1.0.ipynb
    -
-   - Build a model to classify images - 42 classes - different types of traffic signs liek speed limits, parking zones etc
-   - This is primarily an application of pandas, numpy, sklearn, tensorflow, keras - primarily multilayered perceptrons - with hyper-parameter tuning using GridSearchCV
+   - Build a model to classify images - 3 classes with_mask, without_mask and partial_mask 
+   - This is primarily an application of pandas, numpy, sklearn, tensorflow, keras - primarily Conv2D, VGG16, Resnet50, Flatten, MaxPooling2D, Batch Normalization, Dropout and Dense layers  
