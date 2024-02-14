@@ -90,3 +90,13 @@
    -
    - Build a model to perform simple analytics with Pyspark on the real estate valuation dataset and predict the house price per unit area
    - This is primarily an application of spark, pyspark.ml, vector assembler, LinearRegression
+
+3 Network_Intrusion_Analysis_using_Pysparkv1.0.ipynb
+   -
+   - Build a model to perform complex analytics on a network intrusion dataset using Pyspark 
+   - This is primarily an application of spark, pyspark.ml, vector assembler, LinearRegression
+
+4 Sentiment_Classification_using_nltk_pyspark_streamlitv1.0.ipynb
+   -
+   - Build a model to perform sentiment classification by analyzing the tweets data for major US airlines with Pyspark
+   - This is primarily an application of spark, pyspark.ml, vector assembler, nltk, NaiveBayes and streamlit or UI 
