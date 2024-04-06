@@ -26,7 +26,7 @@
 
 ## Classical Machine Learning 
 
-1 Predict Bike Sharing Users.ipynb
+1 [Predicting Bike Sharing Users using Regression](Predict Bike Sharing Users.ipynb)
    -
    - Predict the bike-sharing counts per hour based on the features including weather, day, time, humidity, wind speed, season
    - This is primarily a application of Linear Regression - using Normal equation and Stochastic Gradient Descent
