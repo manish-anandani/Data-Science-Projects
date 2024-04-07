@@ -56,7 +56,7 @@
 
 ## Deep Learning
 
-1 [Image_Classification_MLP_Traffic_Sign_Recognition.ipynb](Image_Classification_MLP_Traffic_Sign_Recognition.ipynb)
+1 [Image_Classification_MLP_Traffic_Sign_Recognition.ipynb](Image_Classification_MLP_v1.0.ipynb)
    -
    - Build a model to classify images - 42 classes - different types of traffic signs liek speed limits, parking zones etc
    - This is primarily an application of pandas, numpy, sklearn, tensorflow, keras - primarily multilayered perceptrons - with hyper-parameter tuning using GridSearchCV
