@@ -71,7 +71,7 @@
    - Build a model to Train a CNN-LSTM based deep neural net to recognize the action being performed in a video 
    - This is primarily an application of pandas, numpy, sklearn, tensorflow, keras - primarily LSTM, TimeDistributed, VGG16, Flatten, MaxPooling2D, Batch Normalization, Dropout and Dense layers  
 
-4 [Stock_Prices_Anomaly_Detection_using_PCA_LSTMv1.0.ipynb](Stock_Prices_Anomaly_Detection_using_PCA_LSTMv1.0.ipynb)
+4 [Stock_Prices_Anomaly_Detection_using_PCA_LSTMv1.0.ipynb](Stock_Prices_Anomaly_Detection_using_PCA_LSTMv1_0.ipynb)
    -
    - Build a model to Train a CNN-LSTM based deep neural net to recognize the action being performed in a video 
    - This is primarily an application of pandas, numpy, sklearn, tensorflow, keras - primarily LSTM, TimeDistributed, VGG16, Flatten, MaxPooling2D, Batch Normalization, Dropout and Dense layers  
