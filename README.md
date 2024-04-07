@@ -46,7 +46,7 @@
    - Build a model to predict employee attrition on a dataset that is synthetically created by IBM data scientists
    - This is primarily an application of XGBoost, CatBoost, LGBM, models (with hyper parameter tuning using Optuna or HyperOpt) and ensemple methods - StackingClassifier on top of - XGBoost, CatBoost and LGBM
 
- 5 [Customer_Segmentation_Unsupervised Learning.ipynb](Customer_Segmentation_Unsupervised Learning.ipynb)
+ 5 [Customer_Segmentation_Unsupervised Learning.ipynb](Customer_Segmentation_Unsupervised_Learning.ipynb)
    -
    - Customer segmentation based on Frequency of purchase, Recency and Total spend (Monetary)
    - Using kmeans and DBSCAN clustering unsupervised learning methods
