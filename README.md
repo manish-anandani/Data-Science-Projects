@@ -86,17 +86,17 @@
    - Build a model to explore the Movielens dataset and build a movie recommendation engine
    - This is primarily an application of pandas, cassandra 
 
-2 LinearRegression_using_Pysparkmlv1.0.ipynb
+2 [LinearRegression_using_Pysparkmlv1.0.ipynb](LinearRegression_using_Pysparkmlv1.0.ipynb)
    -
    - Build a model to perform simple analytics with Pyspark on the real estate valuation dataset and predict the house price per unit area
    - This is primarily an application of spark, pyspark.ml, vector assembler, LinearRegression
 
-3 Network_Intrusion_Analysis_using_Pysparkv1.0.ipynb
+3 [Network_Intrusion_Analysis_using_Pysparkv1.0.ipynb](Network_Intrusion_Analysis_using_Pysparkv1.0.ipynb)
    -
    - Build a model to perform complex analytics on a network intrusion dataset using Pyspark 
    - This is primarily an application of spark, pyspark.ml, vector assembler, LinearRegression
 
-4 Sentiment_Classification_using_nltk_pyspark_streamlitv1.0.ipynb
+4 [Sentiment_Classification_using_nltk_pyspark_streamlitv1.0.ipynb](Sentiment_Classification_using_nltk_pyspark_streamlitv1.0.ipynb)
    -
    - Build a model to perform sentiment classification by analyzing the tweets data for major US airlines with Pyspark
    - This is primarily an application of spark, pyspark.ml, vector assembler, nltk, NaiveBayes and streamlit for UI 
