@@ -81,7 +81,7 @@
 
 ## Big Data Analytics
 
-1 Movielens_using_Cassandrav1.0.ipynb
+1 [Movielens_using_Cassandrav1.0.ipynb](Movielens_using_Cassandrav1.0.ipynb)
    -
    - Build a model to explore the Movielens dataset and build a movie recommendation engine
    - This is primarily an application of pandas, cassandra 
